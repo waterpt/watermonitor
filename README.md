@@ -1,7 +1,7 @@
-[![License: GPLv3](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 
 <p align="center"><img src="imgs/logo.png"
-alt="watermonitor" height="124" border="0" /></p>
+alt="watermonitor" height="164" border="0" /></p>
 
 <p align="center"><b>Water Monitor</b></p>
 
@@ -18,5 +18,7 @@ Please let us know if there is any
 [issues](https://github.com/waterpt/watermonitor/issues).
 
 ## LICENSE
-WaterMonitor is under GPLv3 license. For more information, click
-[here](https://opensource.org/licenses/GPL).
+
+License is GPLv3. 
+For more information:
+<pre>http://www.gnu.org/licenses/gpl-3.0.html</pre>
