@@ -1,0 +1,142 @@
+var1	1	2	Acetoanaerobium_sticklandii
+var1	2	3	Acidaminococcus_intestini
+var1	3	4	Acidovorax_ebreus
+var1	4	5	Acidovorax_sp._JS42
+var1	5	6	Acinetobacter_phage_AP205
+var1	6	7	Aeromonas_media
+var1	7	8	Aeromonas_phage_phiARM81ld
+var1	8	9	Aeromonas_salmonicida color=red
+var1	9	10	Aeromonas_veronii color=red
+var1	10	11	Aeromonas_virus_Aes12
+var1	11	12	Aeromonas_virus_phiO18P
+var1	12	13	Akkermansia_muciniphila
+var1	13	14	Alicycliphilus_denitrificans
+var1	14	15	Alistipes_putredinis color=red
+var1	15	16	Aminomonas_paucivorans
+var1	16	17	Arabis_mosaic_virus
+var1	17	18	Arcobacter_butzleri color=red
+var1	18	19	Atlantic_salmon_calicivirus
+var1	19	20	Azospira_oryzae
+var1	20	21	Bacteroides_thetaiotaomicron
+var1	21	22	Bacteroides_uniformis color=red
+var1	22	23	Bacteroides_vulgatus color=red
+var1	23	24	Beihai_picorna-like_virus_64
+var1	24	25	Bell_pepper_mottle_virus
+var1	25	26	Bifidobacterium_adolescentis
+var1	26	27	Bifidobacterium_longum color=red
+var1	27	28	Brome_mosaic_virus
+var1	28	29	Cactus_virus_X
+var1	29	30	Candidatus_Accumulibacter_phosphatis
+var1	30	31	Canine_astrovirus
+var1	31	32	Carnation_mottle_virus
+var1	32	33	Carrot_red_leaf_virus
+var1	33	34	Catenibacterium_mitsuokai
+var1	34	35	Caulobacter_phage_phiCb5
+var1	35	36	Citrus_tristeza_virus
+var1	36	37	Collinsella_aerofaciens color=red
+var1	37	38	Comamonas_testosteroni color=red
+var1	38	39	Cronobacter_phage_vB_CsaP_Ss1
+var1	39	40	Cucumber_green_mottle_mosaic_virus
+var1	40	41	Cucumber_mosaic_virus
+var1	41	42	Cucurbit_aphid-borne_yellows_virus
+var1	42	43	Desulfovibrio_magneticus
+var1	43	44	Dickeya_phage_BF25/12
+var1	44	45	Drosophila_A_virus
+var1	45	46	Dysgonomonas_mossii
+var1	46	47	Enterobacter_asburiae
+var1	47	48	Enterobacteria_phage_FI_sensu_lato
+var1	48	49	Enterobacteria_phage_Hgal1
+var1	49	50	Enterobacteria_phage_HK225
+var1	50	51	Enterobacteria_phage_M
+var1	51	52	Enterobacterial_phage_mEp390
+var1	52	53	Escherichia_coli color=red
+var1	53	54	Escherichia_phage_HK639
+var1	54	55	Escherichia_virus_186
+var1	55	56	Escherichia_virus_BZ13
+var1	56	57	Escherichia_virus_FI
+var1	57	58	Escherichia_virus_G4
+var1	58	59	Escherichia_virus_HK97
+var1	59	60	Escherichia_virus_MS2
+var1	60	61	Escherichia_virus_Qbeta
+var1	61	62	Faecalibacterium_prausnitzii
+var1	62	63	Garlic_common_latent_virus
+var1	63	64	Garlic_virus_A
+var1	64	65	Garlic_virus_X
+var1	65	66	Gordonia_amarae
+var1	66	67	Hibiscus_chlorotic_ringspot_virus
+var1	67	68	Hubei_arthropod_virus_3
+var1	68	69	Hubei_diptera_virus_1
+var1	69	70	Hubei_picorna-like_virus_36
+var1	70	71	Hubei_picorna-like_virus_61
+var1	71	72	Hubei_picorna-like_virus_62
+var1	72	73	Hubei_picorna-like_virus_63
+var1	73	74	Human_picobirnavirus
+var1	74	75	Husavirus_sp.
+var1	75	76	Hyphomicrobium_denitrificans
+var1	76	77	Kashmir_bee_virus
+var1	77	78	Klebsiella_michiganensis
+var1	78	79	Klebsiella_phage_6_LV-2017
+var1	79	80	Klebsiella_phage_phiKO2
+var1	80	81	Klebsiella_phage_vB_Kpn_IME260
+var1	81	82	Klebsiella_pneumoniae color=red
+var1	82	83	Klebsiella_variicola color=red
+var1	83	84	Lactobacillus_delbrueckii color=red
+var1	84	85	Lactococcus_lactis
+var1	85	86	Lactococcus_phage_1706
+var1	86	87	Lactococcus_phage_38502
+var1	87	88	Lactococcus_phage_TP901-1
+var1	88	89	Laribacter_hongkongensis color=red
+var1	89	90	Leuconostoc_citreum
+var1	90	91	Mamastrovirus_1 color=red
+var1	91	92	Megamonas_funiformis
+var1	92	93	Melaminivora_alkalimesophila
+var1	93	94	Melon_necrotic_spot_virus
+var1	94	95	Methanobrevibacter_smithii
+var1	95	96	Methanothrix_soehngenii
+var1	96	97	Microlunatus_phosphovorus
+var1	97	98	Mitsuokella_multacida
+var1	98	99	Nakamurella_multipartita
+var1	99	100	Ochrobactrum_anthropi color=red
+var1	100	101	Odontoglossum_ringspot_virus
+var1	101	102	Oryza_sativa_alphaendornavirus
+var1	102	103	Papaya_lethal_yellowing_virus
+var1	103	104	Papaya_ringspot_virus
+var1	104	105	Paprika_mild_mottle_virus
+var1	105	106	Parasutterella_excrementihominis
+var1	106	107	Pelobacter_propionicus
+var1	107	108	Pepino_mosaic_virus
+var1	108	109	Pepper_mild_mottle_virus
+var1	109	110	Pepper_ringspot_virus
+var1	110	111	Phascolarctobacterium_succinatutens
+var1	111	112	Phaseolus_vulgaris_alphaendornavirus_1
+var1	112	113	Poinsettia_mosaic_virus
+var1	113	114	Potato_virus_S
+var1	114	115	Potato_virus_Y
+var1	115	116	Prevotella_copri
+var1	116	117	Pseudomonas_phage_PRR1
+var1	117	118	Pseudomonas_pseudoalcaligenes
+var1	118	119	Rehmannia_mosaic_virus
+var1	119	120	Saccharomyces_cerevisiae_virus_L-A
+var1	120	121	Salmonella_phage_St161
+var1	121	122	Salmonella_virus_SE2
+var1	122	123	Schlumbergera_virus_X
+var1	123	124	Salmonella_virus_SE2
+var1	124	125	Sowbane_mosaic_virus
+var1	125	126	Streptococcus_gallolyticus color=red
+var1	126	127	Streptococcus_infantarius color=red
+var1	127	128	Streptococcus_macedonicus 
+var1	128	129	Streptococcus_suis color=red
+var1	129	130	Sulfuricurvum_kujiense
+var1	130	131	Sutterella_wadsworthensis color=red
+var1	131	132	Thauera_sp._MZ1T
+var1	132	133	Tobacco_mild_green_mosaic_virus
+var1	133	134	Tobacco_mosaic_virus
+var1	134	135	Tolumonas_auensis
+var1	135	136	Tomato_brown_rugose_fruit_virus
+var1	136	137	Tomato_mosaic_virus
+var1	137	138	Turnip_yellow_mosaic_virus
+var1	138	139	Vicia_cryptic_virus
+var1	139	140	Wenzhou_picorna-like_virus_47
+var1	140	141	Yersinia_phage_phiR1-37
+var1	141	142	Yersinia_phage_phiR201
+var2	142	143	Pathogens
