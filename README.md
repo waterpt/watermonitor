@@ -1,7 +1,7 @@
 [![License: GPLv3](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 <p align="center"><img src="imgs/logo.png"
-alt="watermonitor" height="76" border="0" /></p>
+alt="watermonitor" height="124" border="0" /></p>
 
 <p align="center"><b>Water Monitor</b></p>
 
