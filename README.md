@@ -25,6 +25,8 @@ The following steps should be done to analyze your samples:
 “./FALCON -v -F -t 15 -l 47 -x output_file.txt transcriptome_example.fasta your_reference_database.fasta”</li>
 <li>4-	Run the R script (MERGE_TABLES_GOTTCHA2-FALCON_script.R) from https://github.com/waterpt/watermonitor to merge the results from both datasets. (R software package should be installed from https://www.r-project.org/)</li>
 <li>5-	Run the CIRCOS script to generate the graphic representation of the detected pathogenetic strains.</li>
+<li>5-	You should obtain a graphic representation similar to next figure:</li>
+  ![circos_combined_FALCON_GOTTCHA2](https://user-images.githubusercontent.com/11854631/219101019-c4d05f26-40aa-4ac8-8669-e60463c3de33.png)
 
 ## ISSUES
 Please let us know if there is any
