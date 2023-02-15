@@ -27,7 +27,7 @@ The following steps should be done to analyze your samples:
 <li>5-	Run the CIRCOS script to generate the graphic representation of the detected pathogenetic strains.</li>
 <li>5-	You should obtain a graphic representation similar to next figure:</li>
   <p></p>
-  <p align="center"><img src="https://user-images.githubusercontent.com/11854631/219105443-fb5e179c-5ca1-481c-8b01-8868399819f7.jpg"
+  <p align="left"><img src="https://user-images.githubusercontent.com/11854631/219105443-fb5e179c-5ca1-481c-8b01-8868399819f7.jpg"
   alt="pathogens graph" height="400" border="0" /></p>
 
 
