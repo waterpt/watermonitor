@@ -17,8 +17,8 @@ The code is divided in three folders:
 Example of use
 
 <ul>
-<li>
-The following steps should be done to analyze your samples:</li>
+
+The following steps should be done to analyze your samples:
 <li>1-	Create a profile account at KBase (https://www.kbase.us/) online platform to run the GOTTCHA2 software. The workflow to run GOTTCHA2 for the simulated database from MOSCA can be executed at https://narrative.kbase.us/narrative/128450.</li>
 <li>2-	Install the FALCON-meta algorithm (https://github.com/cobilab/falcon) using ANACONDA (https://www.anaconda.com/, available for all operating system platforms). In Windows the linux subsystem should be installed. All software is open source.</li>
 <li>3-	Run the samples in GOTTCHA2 and FALCON-meta and save the results. FALCON-meta command should be: 
