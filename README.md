@@ -26,7 +26,8 @@ The following steps should be done to analyze your samples:
 <li>4-	Run the R script (MERGE_TABLES_GOTTCHA2-FALCON_script.R) from https://github.com/waterpt/watermonitor to merge the results from both datasets. (R software package should be installed from https://www.r-project.org/)</li>
 <li>5-	Run the CIRCOS script to generate the graphic representation of the detected pathogenetic strains.</li>
 <li>5-	You should obtain a graphic representation similar to next figure:</li>
-  ![circos_combined_FALCON_GOTTCHA2](https://user-images.githubusercontent.com/11854631/219101019-c4d05f26-40aa-4ac8-8669-e60463c3de33.png)
+![watermonitor_example_figure1](https://user-images.githubusercontent.com/11854631/219101919-f99998a1-3117-42ea-aa56-29862cca976f.png)
+
 
 ## ISSUES
 Please let us know if there is any
