@@ -28,7 +28,7 @@ The following steps should be done to analyze your samples:
 <li>5-	You should obtain a graphic representation similar to next figure:</li>
 ![watermonitor_example_figure1](https://user-images.githubusercontent.com/11854631/219102424-67d0a71d-a6d0-4694-9ff0-2cd4d6f3bb67.jpeg)
 
-
+</ul>
 
 ## ISSUES
 Please let us know if there is any
