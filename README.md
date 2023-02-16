@@ -11,6 +11,8 @@ The code is divided in three folders:
   <li>FALCON-meta</li>
   <li>GOTTCHA2</li>
   <li>Circos</li>
+  <li>R_SCRIPTS</li>
+  <li>SIMULATED_DATA/li>
 </ul>
 
 ## Example of use
