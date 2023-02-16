@@ -12,7 +12,7 @@ The code is divided in three folders:
   <li>GOTTCHA2</li>
   <li>Circos</li>
   <li>R_SCRIPTS</li>
-  <li>SIMULATED_DATA/li>
+  <li>SIMULATED_DATA</li>
 </ul>
 
 ## Example of use
